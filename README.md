@@ -34,9 +34,9 @@
 
 - 💻 I enjoy crafting responsive, scalable, and user-friendly web applications.
 - ⚛️ My core stack is the MERN ecosystem: MongoDB, Express.js, React, and Node.js.
-- 🤖 I’m actively exploring Generative AI, Python, AI APIs, and automation workflows.
+- 🤖 I'm actively exploring Generative AI, Python, AI APIs, and automation workflows.
 - 🛠️ I like solving real-world problems by building tools that are practical and efficient.
-- 📚 I’m always learning through projects, experimentation, and product-focused thinking.
+- 📚 I'm always learning through projects, experimentation, and product-focused thinking.
 - 🎯 My goal is to build useful digital experiences that create measurable value.
 
 ---
@@ -94,7 +94,7 @@
   <a href="https://git-scm.com/">
     <img src="https://cdn.simpleicons.org/git/F05032" width="44" height="44" alt="Git" title="Git" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/">
+  <a href="https://github.com/Yashwanth1943">
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="44" height="44" alt="GitHub" title="GitHub" />
   </a>&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/">
@@ -141,16 +141,6 @@
 
 ---
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yashwanth1943/Yashwanth1943/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation" />
-</p>
-
-> The animated snake graph appears when the workflow is configured to publish the SVG to the `output` branch.
-
----
-
 ## 💡 Mindset
 
 <p align="center">
@@ -158,7 +148,7 @@
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! I’m always open to learning, collaborating, and building meaningful projects.
+  Thanks for visiting my profile! I'm always open to learning, collaborating, and building meaningful projects.
 </p>
 
 <p align="center">
