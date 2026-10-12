@@ -122,8 +122,8 @@
 ## 📌 Featured Work
 
 <p align="center">
-  <a href="https://github.com/Yashwanth1943/Yashwanth1943">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth1943&repo=Yashwanth1943&theme=tokyonight&hide_border=true" alt="Featured project card" />
+  <a href="https://github.com/Yashwanth1943/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth1943&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio project card" />
   </a>
 </p>
 
