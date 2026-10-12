@@ -128,6 +128,11 @@
 </p>
 
 <p align="center">
+  <strong>Portfolio</strong><br>
+  A personal portfolio site showcasing my skills, projects, and developer journey.
+</p>
+
+<p align="center">
   <a href="https://github.com/Yashwanth1943?tab=repositories">
     <img src="https://img.shields.io/badge/View%20More-Projects-8B5CF6?style=for-the-badge" alt="View more projects" />
   </a>
