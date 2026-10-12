@@ -44,7 +44,7 @@
 ## ⚡ Tech Stack
 
 ### Frontend
-<p align="left">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://cdn.simpleicons.org/html5/E34F26" width="44" height="44" alt="HTML5" title="HTML5" />
   </a>&nbsp;&nbsp;
@@ -60,7 +60,7 @@
 </p>
 
 ### Backend & Data
-<p align="left">
+<p align="center">
   <a href="https://nodejs.org/">
     <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="44" height="44" alt="Node.js" title="Node.js" />
   </a>&nbsp;&nbsp;
@@ -73,7 +73,7 @@
 </p>
 
 ### AI & Automation
-<p align="left">
+<p align="center">
   <a href="https://www.python.org/">
     <img src="https://cdn.simpleicons.org/python/3776AB" width="44" height="44" alt="Python" title="Python" />
   </a>&nbsp;&nbsp;
@@ -85,12 +85,12 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   <strong>Currently exploring:</strong> Generative AI · AI APIs · Prompt Engineering · Workflow Automation · Product Thinking
 </p>
 
 ### Tools
-<p align="left">
+<p align="center">
   <a href="https://git-scm.com/">
     <img src="https://cdn.simpleicons.org/git/F05032" width="44" height="44" alt="Git" title="Git" />
   </a>&nbsp;&nbsp;
