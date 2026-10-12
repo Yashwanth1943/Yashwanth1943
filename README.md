@@ -122,12 +122,16 @@
 ## 📌 Featured Work
 
 <p align="center">
-  <a href="https://github.com/Yashwanth1943">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth1943&repo=your-project-name&theme=tokyonight&hide_border=true" alt="Featured project" />
+  <a href="https://github.com/Yashwanth1943/Yashwanth1943">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth1943&repo=Yashwanth1943&theme=tokyonight&hide_border=true" alt="Featured project card" />
   </a>
 </p>
 
-> Replace `your-project-name` with a live repository to showcase your best project here.
+<p align="center">
+  <a href="https://github.com/Yashwanth1943?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20More-Projects-8B5CF6?style=for-the-badge" alt="View more projects" />
+  </a>
+</p>
 
 ---
 
