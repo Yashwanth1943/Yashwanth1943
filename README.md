@@ -65,7 +65,7 @@
     <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="44" height="44" alt="Node.js" title="Node.js" />
   </a>&nbsp;&nbsp;
   <a href="https://expressjs.com/">
-    <img src="https://cdn.simpleicons.org/express/000000" width="44" height="44" alt="Express.js" title="Express.js" />
+    <img src="https://cdn.simpleicons.org/express/FFFFFF" width="44" height="44" alt="Express.js" title="Express.js" />
   </a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/">
     <img src="https://cdn.simpleicons.org/mongodb/47A248" width="44" height="44" alt="MongoDB" title="MongoDB" />
@@ -78,10 +78,10 @@
     <img src="https://cdn.simpleicons.org/python/3776AB" width="44" height="44" alt="Python" title="Python" />
   </a>&nbsp;&nbsp;
   <a href="https://openai.com/">
-    <img src="https://cdn.simpleicons.org/openai/412991" width="44" height="44" alt="OpenAI" title="OpenAI" />
+    <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="44" height="44" alt="OpenAI" title="OpenAI" />
   </a>&nbsp;&nbsp;
   <a href="https://www.anthropic.com/">
-    <img src="https://cdn.simpleicons.org/anthropic/000000" width="44" height="44" alt="Anthropic" title="Anthropic" />
+    <img src="https://cdn.simpleicons.org/anthropic/FFFFFF" width="44" height="44" alt="Anthropic" title="Anthropic" />
   </a>&nbsp;&nbsp;
   <a href="https://n8n.io/">
     <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="44" height="44" alt="n8n" title="n8n" />
@@ -94,7 +94,7 @@
     <img src="https://cdn.simpleicons.org/git/F05032" width="44" height="44" alt="Git" title="Git" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Yashwanth1943">
-    <img src="https://cdn.simpleicons.org/github/181717" width="44" height="44" alt="GitHub" title="GitHub" />
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="44" height="44" alt="GitHub" title="GitHub" />
   </a>&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/">
     <img src="https://cdn.simpleicons.org/visualstudiocode/0078D4" width="44" height="44" alt="VS Code" title="VS Code" />
