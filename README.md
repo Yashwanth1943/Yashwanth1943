@@ -1,186 +1,156 @@
-<!--
-  YASHWANTH'S GITHUB PROFILE
-  Replace every YOUR_USERNAME, YOUR_LINKEDIN_URL,
-  YOUR_EMAIL, and project URL before publishing.
--->
+ <!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=200&section=header&text=Yashwanth%20Kosuri&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Automation%20Enthusiast&descAlignY=58&descSize=16" width="100%" alt="Yashwanth Kosuri profile banner"/>
+</p>
 
-<div align="center">
+<h1 align="center">Hi 👋, I'm Yashwanth Kosuri</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:2563EB,100:9333EA&height=200&section=header&text=Yashwanth&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%7C%20MERN%20%2B%20AI&descAlignY=60&descSize=16"/>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Generative AI & Automation</h3>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality+%F0%9F%9A%80;MERN+Stack+%2B+AI+Integration+%F0%9F%A4%96;Creating+Useful+Digital+Experiences+%E2%9C%A8;Always+Learning.+Always+Building." alt="Developer introduction animation"/>
-</a>
+<p align="center">
+  I build web applications, explore AI-powered solutions, and turn ideas into practical projects.
+</p>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/yasvanth-kosuri-007722195"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:yashwanthkosuri@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Yashwanth1943?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-8B5CF6?style=for-the-badge&logo=github"/></a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yasvanth-kosuri-007722195">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:yashwanthkosuri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Yashwanth1943">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-```javascript
-const yashwanth = {
-  role: "Full-Stack Web Developer",
-  stack: ["MongoDB", "Express.js", "React", "Node.js"],
-  exploring: ["AI Integration", "Generative AI", "Automation"],
-  interests: ["Web Applications", "Problem Solving"],
-  mindset: "Build. Learn. Improve. Repeat."
-};
-```
-
-I'm passionate about creating modern web applications that solve real-world problems. I enjoy building across the full stack, exploring AI-powered features, and continuously improving my development skills.
-
-- 🚀 Building practical, user-focused web applications
-- ⚛️ Developing with the MERN stack
-- 🤖 Exploring AI APIs and intelligent application workflows
-- 🌱 Learning, experimenting, and improving through projects
-- 🎯 Open to web development opportunities and collaboration
+- 💻 I enjoy building responsive and user-friendly web applications.
+- ⚛️ I work with the **MERN stack**: MongoDB, Express.js, React, and Node.js.
+- 🤖 I'm exploring **Generative AI, Python, AI APIs, and workflow automation**.
+- 🛠️ I enjoy solving problems and learning new technologies through hands-on projects.
+- 📚 I'm continuously improving my development skills and exploring new ideas.
+- 🎯 My goal is to build useful, scalable applications that solve real-world problems.
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack & Superpowers
 
+### 🎨 Frontend Development
 
-<h2 align="center">⚡ Tech Stack & Superpowers</h2>
-<p align="center">Technologies I use to turn ideas into applications.</p>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://cdn.simpleicons.org/html5/E34F26" width="44" height="44" alt="HTML5" title="HTML5"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://cdn.simpleicons.org/css/1572B6" width="44" height="44" alt="CSS3" title="CSS3"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="44" height="44" alt="JavaScript" title="JavaScript"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://react.dev/">
+    <img src="https://cdn.simpleicons.org/react/61DAFB" width="44" height="44" alt="React" title="React"/>
+  </a>
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎨 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend skills"/>
-    </td>
-    <td align="center" width="50%">
-      <h3>⚙️ Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend skills"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>🤖 AI & Automation</h3>
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
-      <br/>
-      <sub>AI APIs · Generative AI · Automation</sub>
-    </td>
-    <td align="center">
-      <h3>🛠️ Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Developer tools"/>
-    </td>
-  </tr>
-</table>
+### ⚙️ Backend Development
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Backend-059669?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square"/>
+<p align="left">
+  <a href="https://nodejs.org/">
+    <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="44" height="44" alt="Node.js" title="Node.js"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://expressjs.com/">
+    <img src="https://cdn.simpleicons.org/express/FFFFFF" width="44" height="44" alt="Express.js" title="Express.js"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/">
+    <img src="https://cdn.simpleicons.org/mongodb/47A248" width="44" height="44" alt="MongoDB" title="MongoDB"/>
+  </a>
+</p>
+
+### 🤖 AI, Python & Automation
+
+<p align="left">
+  <a href="https://www.python.org/">
+    <img src="https://cdn.simpleicons.org/python/3776AB" width="44" height="44" alt="Python" title="Python"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://openai.com/">
+    <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="44" height="44" alt="OpenAI" title="OpenAI"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://n8n.io/">
+    <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="44" height="44" alt="n8n" title="n8n"/>
+  </a>
+</p>
+
+<p>
+  <strong>Exploring:</strong> Generative AI · AI APIs · Prompt Engineering · Workflow Automation
+</p>
+
+### 🛠️ Developer Tools
+
+<p align="left">
+  <a href="https://git-scm.com/">
+    <img src="https://cdn.simpleicons.org/git/F05032" width="44" height="44" alt="Git" title="Git"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="44" height="44" alt="GitHub" title="GitHub"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/">
+    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="44" height="44" alt="Visual Studio Code" title="Visual Studio Code"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.postman.com/">
+    <img src="https://cdn.simpleicons.org/postman/FF6C37" width="44" height="44" alt="Postman" title="Postman"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<!-- Replace these examples with your real projects. -->
+<p align="center">
+  <a href="https://github.com/Yashwanth1943">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth1943&repo=REPLACE_WITH_PROJECT_REPO&theme=tokyonight&hide_border=true" alt="Featured project card"/>
+  </a>
+</p>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 AI-Powered Web App
-
-Build a web application that uses AI to solve a specific user problem.
-
-**Highlights**
-- Responsive interface
-- AI API integration
-- Secure backend endpoints
-
-**Stack:** React · Node.js · AI API
-
-[View Source Code](YOUR_PROJECT_1_URL)
-
-</td>
-<td width="50%">
-
-### 📊 Full-Stack Productivity App
-
-A full-stack application for managing tasks, tracking progress, and organizing everyday work.
-
-**Highlights**
-- User authentication
-- CRUD operations
-- MongoDB data persistence
-
-**Stack:** React · Express · MongoDB
-
-[View Source Code](YOUR_PROJECT_2_URL)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 E-Commerce Application
-
-An online shopping experience with product browsing, search, and shopping-cart functionality.
-
-**Highlights**
-- Product management
-- Responsive product listings
-- Cart and checkout workflow
-
-**Stack:** MERN · REST APIs
-
-[View Source Code](YOUR_PROJECT_3_URL)
-
-</td>
-<td width="50%">
-
-### ✨ More Projects
-
-Explore my other experiments, practice projects, and applications as I continue learning and building.
-
-[Browse All Repositories](https://github.com/YOUR_USERNAME?tab=repositories)
-
-</td>
-</tr>
-</table>
+> 📌 Replace `REPLACE_WITH_PROJECT_REPO` with the name of an actual public repository you want to showcase. You can duplicate this section to feature more projects.
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanth1943&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth1943&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yashwanth1943&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 🐍 Contribution Activity
 
-I'm interested in connecting with developers, collaborating on projects, and exploring opportunities in web development.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yashwanth1943/Yashwanth1943/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation"/>
+</p>
 
-<div align="center">
+> To enable the contribution animation, configure the corresponding GitHub Actions workflow to generate and publish the SVG to the `output` branch. Until then, this image may not appear.
 
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
-<a href="mailto:YOUR_EMAIL">Email</a> ·
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">My Projects</a>
+---
 
-<br/><br/>
+## 💡 My Developer Mindset
 
-**"Don't just write code. Build something meaningful."** ✨
+<p align="center">
+  <em>"Build. Learn. Improve. Repeat."</em>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:2563EB,100:0B1020&height=100&section=footer"/>
+<p align="center">
+  Thanks for visiting my profile! ⭐ Feel free to explore my repositories and connect with me.
+</p>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=100&section=footer" width="100%" alt="Profile footer banner"/>
+</p>
