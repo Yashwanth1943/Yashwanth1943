@@ -43,71 +43,62 @@
 
 ## ⚡ Tech Stack
 
+<h3 align="center">Frontend</h3>
 <p align="center">
-  <table>
-    <tr>
-      <td align="left" valign="middle" width="170"><b>Frontend</b></td>
-      <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-          <img src="https://cdn.simpleicons.org/html5/E34F26" width="44" height="44" alt="HTML5" title="HTML5" />
-        </a>&nbsp;&nbsp;
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-          <img src="https://cdn.simpleicons.org/css/1572B6" width="44" height="44" alt="CSS3" title="CSS3" />
-        </a>&nbsp;&nbsp;
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="44" height="44" alt="JavaScript" title="JavaScript" />
-        </a>&nbsp;&nbsp;
-        <a href="https://react.dev/">
-          <img src="https://cdn.simpleicons.org/react/61DAFB" width="44" height="44" alt="React" title="React" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="left" valign="middle" width="170"><b>Backend & Data</b></td>
-      <td align="center">
-        <a href="https://nodejs.org/">
-          <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="44" height="44" alt="Node.js" title="Node.js" />
-        </a>&nbsp;&nbsp;
-        <a href="https://expressjs.com/">
-          <img src="https://cdn.simpleicons.org/express/FFFFFF" width="44" height="44" alt="Express.js" title="Express.js" />
-        </a>&nbsp;&nbsp;
-        <a href="https://www.mongodb.com/">
-          <img src="https://cdn.simpleicons.org/mongodb/47A248" width="44" height="44" alt="MongoDB" title="MongoDB" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="left" valign="middle" width="170"><b>AI & Automation</b></td>
-      <td align="center">
-        <a href="https://www.python.org/">
-          <img src="https://cdn.simpleicons.org/python/3776AB" width="44" height="44" alt="Python" title="Python" />
-        </a>&nbsp;&nbsp;
-        <a href="https://openai.com/">
-          <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="44" height="44" alt="OpenAI" title="OpenAI" />
-        </a>&nbsp;&nbsp;
-        <a href="https://n8n.io/">
-          <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="44" height="44" alt="n8n" title="n8n" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="left" valign="middle" width="170"><b>Tools</b></td>
-      <td align="center">
-        <a href="https://git-scm.com/">
-          <img src="https://cdn.simpleicons.org/git/F05032" width="44" height="44" alt="Git" title="Git" />
-        </a>&nbsp;&nbsp;
-        <a href="https://github.com/Yashwanth1943">
-          <img src="https://cdn.simpleicons.org/github/FFFFFF" width="44" height="44" alt="GitHub" title="GitHub" />
-        </a>&nbsp;&nbsp;
-        <a href="https://code.visualstudio.com/">
-          <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="44" height="44" alt="VS Code" title="VS Code" />
-        </a>&nbsp;&nbsp;
-        <a href="https://www.postman.com/">
-          <img src="https://cdn.simpleicons.org/postman/FF6C37" width="44" height="44" alt="Postman" title="Postman" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://cdn.simpleicons.org/html5/E34F26" width="44" height="44" alt="HTML5" title="HTML5" />
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://cdn.simpleicons.org/css/1572B6" width="44" height="44" alt="CSS3" title="CSS3" />
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="44" height="44" alt="JavaScript" title="JavaScript" />
+  </a>&nbsp;&nbsp;
+  <a href="https://react.dev/">
+    <img src="https://cdn.simpleicons.org/react/61DAFB" width="44" height="44" alt="React" title="React" />
+  </a>
+</p>
+
+<h3 align="center">Backend & Data</h3>
+<p align="center">
+  <a href="https://nodejs.org/">
+    <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="44" height="44" alt="Node.js" title="Node.js" />
+  </a>&nbsp;&nbsp;
+  <a href="https://expressjs.com/">
+    <img src="https://cdn.simpleicons.org/express/FFFFFF" width="44" height="44" alt="Express.js" title="Express.js" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/">
+    <img src="https://cdn.simpleicons.org/mongodb/47A248" width="44" height="44" alt="MongoDB" title="MongoDB" />
+  </a>
+</p>
+
+<h3 align="center">AI & Automation</h3>
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://cdn.simpleicons.org/python/3776AB" width="44" height="44" alt="Python" title="Python" />
+  </a>&nbsp;&nbsp;
+  <a href="https://openai.com/">
+    <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="44" height="44" alt="OpenAI" title="OpenAI" />
+  </a>&nbsp;&nbsp;
+  <a href="https://n8n.io/">
+    <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="44" height="44" alt="n8n" title="n8n" />
+  </a>
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <a href="https://git-scm.com/">
+    <img src="https://cdn.simpleicons.org/git/F05032" width="44" height="44" alt="Git" title="Git" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Yashwanth1943">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="44" height="44" alt="GitHub" title="GitHub" />
+  </a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/">
+    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="44" height="44" alt="VS Code" title="VS Code" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.postman.com/">
+    <img src="https://cdn.simpleicons.org/postman/FF6C37" width="44" height="44" alt="Postman" title="Postman" />
+  </a>
 </p>
 
 <p align="center">
