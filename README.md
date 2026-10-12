@@ -1,47 +1,47 @@
-<!-- Header Banner -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=Yashwanth%20Kosuri&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Automation&descAlignY=65" width="100%" alt="Yashwanth Kosuri banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=Yashwanth%20Kosuri&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Automation&descAlignY=62" width="100%" alt="Yashwanth Kosuri banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Yashwanth Kosuri</h1>
-<h3 align="center">Full Stack Developer • MERN Stack • Generative AI & Automation</h3>
+<h3 align="center">Full Stack Developer • MERN Stack • Generative AI • Workflow Automation</h3>
 
 <p align="center">
-  I design and build modern web apps, explore AI-powered workflows, and turn ideas into practical, scalable solutions.
+  I build modern web experiences, experiment with AI-powered solutions, and turn ideas into useful digital products.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yasvanth-kosuri-007722195">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:yashwanthkosuri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Yashwanth1943">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yashwanth1943&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-5B5BF6" alt="Focus badge"/>
-  <img src="https://img.shields.io/badge/Learning-Generative%20AI-FF6B6B" alt="Learning badge"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-8B5CF6" alt="focus" />
+  <img src="https://img.shields.io/badge/Learning-Generative%20AI-F43F5E" alt="learning" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-10B981" alt="open to collaboration" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 I enjoy building responsive, user-friendly, and high-impact web applications.
+- 💻 I enjoy crafting responsive, scalable, and user-friendly web applications.
 - ⚛️ My core stack is the MERN ecosystem: MongoDB, Express.js, React, and Node.js.
 - 🤖 I’m actively exploring Generative AI, Python, AI APIs, and automation workflows.
-- 🛠️ I love solving real-world problems through clean architecture and practical product thinking.
-- 📚 I continuously improve my skills by learning from hands-on projects and experimentation.
-- 🎯 My goal is to build useful, scalable tools that make work easier and more efficient.
+- 🛠️ I like solving real-world problems by building tools that are practical and efficient.
+- 📚 I’m always learning through projects, experimentation, and product-focused thinking.
+- 🎯 My goal is to build useful digital experiences that create measurable value.
 
 ---
 
-## ⚡ Core Tech Stack
+## ⚡ Tech Stack
 
 ### Frontend
 <p align="left">
@@ -59,7 +59,7 @@
   </a>
 </p>
 
-### Backend & Database
+### Backend & Data
 <p align="left">
   <a href="https://nodejs.org/">
     <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="44" height="44" alt="Node.js" title="Node.js" />
@@ -72,7 +72,7 @@
   </a>
 </p>
 
-### AI, Python & Automation
+### AI & Automation
 <p align="left">
   <a href="https://www.python.org/">
     <img src="https://cdn.simpleicons.org/python/3776AB" width="44" height="44" alt="Python" title="Python" />
@@ -86,10 +86,10 @@
 </p>
 
 <p>
-  <strong>Exploring:</strong> Generative AI · AI APIs · Prompt Engineering · Workflow Automation · Product Thinking
+  <strong>Currently exploring:</strong> Generative AI · AI APIs · Prompt Engineering · Workflow Automation · Product Thinking
 </p>
 
-### Developer Tools
+### Tools
 <p align="left">
   <a href="https://git-scm.com/">
     <img src="https://cdn.simpleicons.org/git/F05032" width="44" height="44" alt="Git" title="Git" />
@@ -98,7 +98,7 @@
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="44" height="44" alt="GitHub" title="GitHub" />
   </a>&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/">
-    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="44" height="44" alt="Visual Studio Code" title="Visual Studio Code" />
+    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="44" height="44" alt="VS Code" title="VS Code" />
   </a>&nbsp;&nbsp;
   <a href="https://www.postman.com/">
     <img src="https://cdn.simpleicons.org/postman/FF6C37" width="44" height="44" alt="Postman" title="Postman" />
@@ -107,38 +107,36 @@
 
 ---
 
-## 🔭 What I'm Working On
+## 🚀 What I Build
 
-- Building clean and user-centric full stack applications.
-- Exploring practical AI workflows and automation use cases.
-- Improving my understanding of scalable architecture and product development.
-- Turning ideas into functioning, real-world solutions.
+- Full stack web apps using modern frontend and backend practices
+- AI-assisted workflows and automation prototypes
+- User-focused solutions with clean UI and practical architecture
+- Scalable tools that simplify real-world tasks and processes
 
 ---
 
-## 🚀 Featured Work
+## 📌 Featured Work
 
 <p align="center">
   <a href="https://github.com/Yashwanth1943">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth1943&repo=your-project-name&theme=tokyonight&hide_border=true" alt="Featured project"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth1943&repo=your-project-name&theme=tokyonight&hide_border=true" alt="Featured project" />
   </a>
 </p>
 
-> Replace `your-project-name` with a real repository to showcase your project here.
-
-You can also add more project cards to highlight your best work and build a stronger portfolio presence.
+> Replace `your-project-name` with a live repository to showcase your best project here.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanth1943&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth1943&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanth1943&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth1943&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yashwanth1943&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=Yashwanth1943&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
 
 ---
@@ -146,23 +144,23 @@ You can also add more project cards to highlight your best work and build a stro
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yashwanth1943/Yashwanth1943/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation"/>
+  <img src="https://raw.githubusercontent.com/Yashwanth1943/Yashwanth1943/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation" />
 </p>
 
-> To enable the animated contribution graph, ensure the GitHub Actions workflow is configured to publish the SVG to the `output` branch.
+> The animated snake graph appears when the workflow is configured to publish the SVG to the `output` branch.
 
 ---
 
-## 💡 My Developer Mindset
+## 💡 Mindset
 
 <p align="center">
   <em>"Build. Learn. Improve. Repeat."</em>
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! ⭐ I’m always open to collaboration, learning, and building meaningful projects.
+  Thanks for visiting my profile! I’m always open to learning, collaborating, and building meaningful projects.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=100&section=footer" width="100%" alt="Footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=100&section=footer" width="100%" alt="Footer banner" />
 </p>
