@@ -46,21 +46,40 @@ I'm passionate about creating modern web applications that solve real-world prob
 
 ## ⚡ Tech Stack
 
-<div align="center">
 
-### Frontend
+<h2 align="center">⚡ Tech Stack & Superpowers</h2>
+<p align="center">Technologies I use to turn ideas into applications.</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend skills"/>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend skills"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🤖 AI & Automation</h3>
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+      <br/>
+      <sub>AI APIs · Generative AI · Automation</sub>
+    </td>
+    <td align="center">
+      <h3>🛠️ Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Developer tools"/>
+    </td>
+  </tr>
+</table>
 
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
-
-### AI, Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,postman&theme=dark" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Backend-059669?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square"/>
+</p>
 
 ---
 
