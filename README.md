@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=Yashwanth%20Kosuri&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Automation&descAlignY=62" width="100%" alt="Yashwanth Kosuri banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Yashwanth Kosuri</h1>
-<h3 align="center">Full Stack Developer • MERN Stack • Generative AI • Workflow Automation</h3>
-
 <p align="center">
   I build modern web experiences, experiment with AI-powered solutions, and turn ideas into useful digital products.
 </p>
